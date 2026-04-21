@@ -1,0 +1,20 @@
+{
+  "interactions": [
+    {
+      "drug_a": "Warfarin",
+      "drug_b": "Aspirin",
+      "severity": "high",
+      "mechanism": "Both drugs inhibit clotting via different pathways, significantly increasing hemorrhage risk.",
+      "clinical_recommendation": "Avoid concurrent use unless strictly monitored; consider alternative analgesics like Acetaminophen.",
+      "source_confidence": "high"
+    },
+    {
+      "drug_a": "Sildenafil",
+      "drug_b": "Nitroglycerin",
+      "severity": "high",
+      "mechanism": "Potentiates hypotensive effects, leading to a dangerous drop in blood pressure.",
+      "clinical_recommendation": "Absolute contraindication. Do not co-prescribe.",
+      "source_confidence": "high"
+    }
+  ]
+}
